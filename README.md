@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hey, I'm Alhareth</h1>
+<h1 align="center"> Hey Hey, I'm Alhareth</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Beginner%20Dev-Blue?style=for-the-badge&color=1E90FF">
