@@ -18,7 +18,14 @@
 📎 Interested in **medical technology & health-related tech**  
 ☁️ I like experimenting, breaking things, and learning how they work practically
 
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0ddx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=0ddx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ddx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -31,12 +38,13 @@
 
 ---
 
-##  Current Goal
+##  Current Goals
 
-> Learn something new every day for the rest of my life
-> Build small projects **(to begin with)**
-> Have fun while doing it 
-
+- [ ] Build a strong python foundation
+- [ ] Learn How **AI** models are trained instead of literally just using them
+- [ ] Try to understand the basics of **Machine Learning** in a simple way that I could understand
+- [ ] Improve my *Math* and *Problem-Solving* skills
+- [ ] BE CONSISTENT!
 ---
 
 ## Finally..
@@ -46,6 +54,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Still%20Learning-Always-1E90FF?style=flat-square">
-</p>
